@@ -1,0 +1,51 @@
+name: avatar
+channels:
+  - conda-forge
+  - pytorch-nightly
+dependencies:
+  - argon2-cffi=21.3.0=pyhd3eb1b0_0
+  - argon2-cffi-bindings=21.2.0=py37h2bbff1b_0
+  - ca-certificates=2020.10.14=0
+  - charset-normalizer=2.0.4=pyhd3eb1b0_0
+  - huggingface_hub=0.5.1
+  - importlib-metadata=4.11.3=py37haa95532_0
+  - intel-openmp=2021.4.0=haa95532_3556
+  - libfaiss-avx2=1.7.2=cuda112h1234567_0_cuda
+  - lz4-c=1.9.3=h2bbff1b_1
+  - m2w64-gcc-libgfortran=5.3.0=6
+  - m2w64-gcc-libs=5.3.0=7
+  - m2w64-gcc-libs-core=5.3.0=7
+  - m2w64-gmp=6.1.0=2
+  - m2w64-libwinpthread-git=5.0.0.4634.697f757=2
+  - matplotlib-inline=0.1.2=pyhd3eb1b0_2
+  - mkl-service=2.4.0=py37h2bbff1b_0
+  - msys2-conda-epoch=20160418=1
+  - nest-asyncio=1.5.5=py37haa95532_0
+  - numpy-base=1.21.5=py37hca35cd5_1
+  - prompt-toolkit=3.0.20=pyhd3eb1b0_0
+  - python-dateutil=2.8.2=pyhd3eb1b0_0
+  - python-fastjsonschema=2.15.1=pyhd3eb1b0_0
+  - pytorch-mutex=1.0
+  - scikit-learn=1.0.2
+  - sentence-transformers=2.2.0
+  - typing-extensions=4.1.1=hd3eb1b0_0
+  - websocket-client=0.58.0=py37haa95532_4
+  - ffmpeg-python=0.2.0
+  - pyaudio=0.2.11
+  - faiss=1.7.2
+  - pip:
+      # Package that is only on PyPI
+      - jupyter
+      - notebook
+      - jupyterlab
+      - grpcio
+      - pandas 
+      - faiss
+      - pydub
+      - soundfile
+      - google
+      - protobuf
+      - gtts 
+      - librosa==0.7.2
+      - numba==0.48
+      - SpeechRecognition
