@@ -3,12 +3,6 @@
 I'll show you how I used several Python packages and NVIDIA's Omniverse Audio2Face to quickly implement an avatar that can answer questions defined in a knowledge set or FAQ.
 
 ## Demo
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/G_c94cGIKgs" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-
 [![IMAGE ALT TEXT](https://user-images.githubusercontent.com/104120636/166487700-9f14813c-13b9-42bc-b477-c0f8aff7db5d.png)](http://www.youtube.com/watch?v=G_c94cGIKgs "Video Title")
 
 
