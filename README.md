@@ -9,6 +9,8 @@ frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/104120636/166487700-9f14813c-13b9-42bc-b477-c0f8aff7db5d.png)](http://www.youtube.com/watch?v=G_c94cGIKgs "Video Title")
+
 
 ## How It Works
 ![](https://i.imgur.com/BZIBUAt.png)
