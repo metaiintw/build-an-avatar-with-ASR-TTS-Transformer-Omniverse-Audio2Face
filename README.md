@@ -40,7 +40,7 @@ $ git clone https://github.com/metaiintw/build-an-avatar-with-ASR-TTS-Transforme
 #### Creating an environment from an environment. yml file
 Make sure Anaconda is installed on your local machine. Use the following command to install packages included in requirements.yml:
 ```
-$ conda env create -f /path/to/environment.yml
+$ conda env create -f /path/to/requirements.yml
 ```
 #### Download and Install Omniverse Launcher
 [NVIDIA Omniverse](https://docs.omniverse.nvidia.com/prod_install-guide/prod_install-guide.html) is a development platform for 3D simulation and design collaboration, it is free for individual, you can download Omniverse Launcher [here](https://www.nvidia.com/en-us/omniverse/download/).
